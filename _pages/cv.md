@@ -60,14 +60,19 @@ Publications
   
 Teaching experience
 ======
+  * Spring 2023: Teaching Assistant
+    * The Chinese University of Hong Kong
+    * Course: CSCI 4430/ESTR 4120 -Data Communication and Computer Networks
+    * Instructor: Prof. Hong Xu
+    
   * Spring 2022: Teaching Assistant
     * The Chinese University of Hong Kong
-    * Course: CSCI 4430-Data Communication and Computer Networks
+    * Course: CSCI 4430/ESTR 4120 -Data Communication and Computer Networks
     * Instructor: Prof. Hong Xu
     
   * Fall 2021: Teaching Assistant
     * The Chinese University of Hong Kong
-    * Course: ENGG 2760A/ESTR 2018-Probability for Engineers
+    * Course: ENGG 2760A/ESTR 2018 -Probability for Engineers
     * Instructor: Prof. Hong Xu
 
   * Fall 2016: Teaching Assistant
