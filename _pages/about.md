@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-Looking forward to good news...
+Our work, "A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization," has been accepted by INFOCOM 2024.
