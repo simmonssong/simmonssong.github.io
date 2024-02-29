@@ -6,7 +6,7 @@ author_profile: true
 ---
 
   1. **Qingyu, Song**, Wei Lin, Juncheng Wang, Hong Xu, "Towards Robust Learning to Optimize with Theoretical Guarantees," In IEEE/CVF CVPR 2024.
-  2. YU Zhang, Wei Lin, Sisi Chen, **Qingyu Song**, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu, "Fed2Com: Towards Efficient Compression in Federated Learning", In IEEE ICNC 2024.
+  2. Yu Zhang, Wei Lin, Sisi Chen, **Qingyu Song**, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu, "Fed2Com: Towards Efficient Compression in Federated Learning", In IEEE ICNC 2024.
   3. **Qingyu, Song**, Juncheng Wang, Jingzong Li, Guochen Liu, Hong Xu, "A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization," In IEEE INFOCOM 2024.
   4. **Qingyu, Song**, Guochen Liu, Hong Xu, "Learning to Optimize Non-Convex Sum-Rate Maximization Problems," In ICML 2023, Workshop on Synergy of Scientific and Machine Learning Modeling.
   5. **Qingyu, Song**, Guochen Liu, Hong Xu, "Towards a Learning-Only Approach for Non-Convex Sum Rate Maximization," In SigMetrics 2023, Workshop on Learning-augmented Algorithms: Theory and Applications.
