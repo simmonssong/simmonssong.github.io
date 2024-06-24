@@ -10,9 +10,9 @@ redirect_from:
 
 ### Qingyu Song
 
-I am currently a Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Prof. Juncheng Wang](https://www.juncheng-wang.com/) at [HKBU](https://www.hkbu.edu.hk/). I hold a B.S. degree from Harbin Institute of Technology and a M.S. degree from Tsinghua University.
+I am currently a Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Prof. Juncheng Wang](https://www.juncheng-wang.com/) of [HKBU](https://www.hkbu.edu.hk/). I hold a B.S. degree from Harbin Institute of Technology and a M.S. degree from Tsinghua University.
 
-**Research Interests**: My research focuses on the (theoretical) foundation of sovling mathematical optimization problems with learning-based methods.
+**Research Interests**: My research focuses on the (theoretical) foundation of solving mathematical optimization problems with learning-based methods. I try to improve the theoretical boundaries of existing algorithms by learning. I am also interested in enhancing the theoretical reliability and robustness of learning-based models with non-learning algorithms.
 
 ### News
 [02/2024] Our first L2O generality analysis work, "Towards Robust Learning to Optimize with Theoretical Guarantees," has been accepted by CVPR 2024. <br>
