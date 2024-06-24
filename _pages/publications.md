@@ -14,7 +14,7 @@ author_profile: true
   7. Jinhua Chen, **Qingyu Song**, Can Zhao, Zhiheng Li, "Graph Database and Relational Database Performance Comparison on a Transportation Network," In International Conference on Advances in Computing and Data Sciences 2020.
   8. **Qingyu Song**, Jianming Hu, Ruobing Zhang, Yi Zhang, An Urban Topological Map Generation Method for Traffic Flow Prediction Based on Road Segment Clustering with Floating Vehicle Trajectory Dataset," In CICTP 2019.
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
 <!-- {% include base_path %}
 
