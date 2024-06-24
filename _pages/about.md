@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+### Qingyu Song
+
+I am currently a Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Prof. Juncheng Wang](https://www.juncheng-wang.com/) at [HKBU](https://www.hkbu.edu.hk/). I hold a B.S. degree from Harbin Institute of Technology and a M.S. degree from Tsinghua University.
+
+**Research Interests**: My research focuses on the (theoretical) foundation of sovling mathematical optimization problems with learning-based methods.
+
 ### News
 [02/2024] Our first L2O generality analysis work, "Towards Robust Learning to Optimize with Theoretical Guarantees," has been accepted by CVPR 2024. <br>
 [12/2023] Our first L2O application work for wireless communication, "A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization," has been accepted by INFOCOM 2024.
