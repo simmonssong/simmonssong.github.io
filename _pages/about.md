@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Qingyu Song
 
 I am currently a Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Prof. Juncheng Wang](https://www.juncheng-wang.com/) of [HKBU](https://www.hkbu.edu.hk/). I hold a B.S. degree from Harbin Institute of Technology and a M.S. degree from Tsinghua University.
 
