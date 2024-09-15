@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Conference Proceedings
-1. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR 2024.
+1. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024.
 2. **Qingyu Song**, Juncheng Wang, Jingzong Li, Guocheng Liu, Hong Xu. A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization. In IEEE INFOCOM, 2024.
 3. Yu Zhang, Wei Lin, Sisi Chen, **Qingyu Song**, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu. Fed2Com: Towards Efficient Compression in Federated Learning. In IEEE ICNC, 2024.
 4. **Qingyu Song**, RuiBo Ming, Jianming Hu, Haoyi Niu, Mingyang Gao. Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction. In IEEE ITSC, 2020.
