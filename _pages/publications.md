@@ -12,6 +12,8 @@ author_profile: true
 
 
 ### Conference Proceedings
+[6]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. "Toward Scalable Learning-Based Optical Restoration". In ACM APNet 2025.
+
 [6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024.
 
 [5]. **Qingyu Song**, Juncheng Wang, Jingzong Li, Guocheng Liu, Hong Xu. A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization. In IEEE INFOCOM, 2024.
