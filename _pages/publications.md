@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Preprints
-[3]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
+[3]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
 
 [2]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." arXiv preprint arXiv:2501.18092 (2025).
 
