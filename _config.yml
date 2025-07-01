@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingyu Song"
+title                    : "Qingyu's Homepage"
 title_separator          : "-"
 name                     : &name "Qingyu Song"
-description              : &description "Ph.D. student at CUHK"
+description              : &description "AP at Xiamen University"
 url                      : https://simmonssong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simmonssong/simmonssong.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qingyu Song"
   avatar           : "SONGQingyu_profile.jpg"
-  bio              : "Ph.D. student at CUHK"
-  location         : "Hong Kong, China"
+  bio              : "AP at Xiamen University"
+  location         : "Fujian, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=C33tGsQAAAAJ&hl=en"
-  email            : qysong21 [AT] cse.cuhk.edu.hk
+  email            : simmonssong96 [AT] gmail.com
   researchgate     : "https://www.researchgate.net/profile/Qingyu-Song-3"
   uri              :
   bitbucket        :
