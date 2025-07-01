@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-
+I'm an incoming Assistant Professor of [Informatic School @ Xiamen University](https://informatics.xmu.edu.cn/index.htm).
 I got my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Prof. Juncheng Wang](https://www.juncheng-wang.com/) of [HKBU](https://www.hkbu.edu.hk/). I hold a B.S. from Harbin Institute of Technology and a M.S. from Tsinghua University.
 
-**Research Interests**: My research focuses on the (theoretical) foundation of solving mathematical optimization problems with learning-based methods. I try to improve the theoretical boundaries of existing algorithms by learning. I am also interested in enhancing the theoretical efficiency and reliability of learning-based models.
+**Research Interests**: My research focuses on the foundation of solving mathematical optimization problems with learning-based methods and their application to Networking. I try to improve the theoretical boundaries of existing algorithms by learning. I am also interested in enhancing the efficiency and reliability of learning-based models. 
 
 ### News
 [06/2025] Successfully defended my PhD.! <br>
