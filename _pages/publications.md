@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+My work is categorized as:
+* Optimization in Deep Learning. [A2]
+* Learning to Optimize. [A2, A1, C7, C6, C5, W2, W1]
+* AI for Network Management. [C7, C5, W2, W1]
+* Inference Acceleration for LLM. [A3]
+* Communication Efficient Federated Learning. [C4]
+* Graph Neural Networks. [C5, W2, W1, C3, C1]
+* Time Series Prediction. [C3, C1]
+    
 ### Preprints
 [3]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
 
