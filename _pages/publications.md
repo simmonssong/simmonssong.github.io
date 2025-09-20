@@ -17,12 +17,14 @@ My work is categorized as:
 ### Preprints
 [3]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
 
-[2]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." arXiv preprint arXiv:2501.18092 (2025).
+[2]. 
 
 [1]. Wei Lin, **Qingyu Song**, and Hong Xu. "Adaptive Coordinate-Wise Step Sizes for Quasi-Newton Methods: A Learning-to-Optimize Approach." arXiv preprint arXiv:2412.00059 (2024).
 
 
 ### Conference Proceedings
+[8]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
+
 [7]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. "Toward Scalable Learning-Based Optical Restoration". In ACM APNet 2025.
 
 [6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024.
