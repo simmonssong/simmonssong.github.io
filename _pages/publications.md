@@ -15,9 +15,7 @@ My work is categorized as:
 * Time Series Prediction. [C3, C1]
     
 ### Preprints
-[3]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
-
-[2]. 
+[2]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
 
 [1]. Wei Lin, **Qingyu Song**, and Hong Xu. "Adaptive Coordinate-Wise Step Sizes for Quasi-Newton Methods: A Learning-to-Optimize Approach." arXiv preprint arXiv:2412.00059 (2024).
 
