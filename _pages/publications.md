@@ -21,7 +21,7 @@ My work is categorized as:
 
 
 ### Conference Proceedings
-[8]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
+[8]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." In NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
 
 [7]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. "Toward Scalable Learning-Based Optical Restoration". In ACM APNet 2025.
 
