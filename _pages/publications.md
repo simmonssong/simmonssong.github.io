@@ -5,25 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-My work is categorized as:
-* Optimization in Deep Learning. [A2]
-* Learning to Optimize. [A2, A1, C7, C6, C5, W2, W1]
-* AI for Network Management. [C7, C5, W2, W1]
-* Inference Acceleration for LLM. [A3]
+My current research interests:
+* Zeroth-Order Optimization. [P3]
+* Learning to Optimize. [P1, C8, C7, C6, C5, W2, W1]
+* AI for Computer Network Management & Scheduling. [C8, C7, C5, W2, W1]
+* Optimization for Deep Learning. [C8]
+* Inference Acceleration for LLM. [P2]
+
+
+My past research topics:
 * Communication Efficient Federated Learning. [C4]
 * Graph Neural Networks. [C5, W2, W1, C3, C1]
 * Time Series Prediction. [C3, C1]
+
     
 ### Preprints
+[3]. Wei Lin, **Qingyu Song**, and Hong Xu. The Multi-Query Paradox in Zeroth-Order Optimization. arXiv preprint arXiv:2509.15552 (2025).
+
 [2]. **Qingyu Song**, Peiyu Liao, Wenqian Zhao, Yiwen Wang, Shoubo Hu, Hui-Ling Zhen, Ning Jiang, and Mingxuan Yuan. "Harnessing On-Device Large Language Model: Empirical Results and Implications for AI PC." arXiv preprint arXiv:2505.15030 (2025).
 
 [1]. Wei Lin, **Qingyu Song**, and Hong Xu. "Adaptive Coordinate-Wise Step Sizes for Quasi-Newton Methods: A Learning-to-Optimize Approach." arXiv preprint arXiv:2412.00059 (2024).
 
 
 ### Conference Proceedings
-[8]. **Qingyu Song**, Wei Lin, and Hong Xu. "Learning Provably Improves the Convergence of Gradient Descent." In NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
+[8]. **Qingyu Song**, Wei Lin, and Hong Xu. Learning Provably Improves the Convergence of Gradient Descent. In NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
 
-[7]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. "Toward Scalable Learning-Based Optical Restoration". In ACM APNet 2025.
+[7]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. Toward Scalable Learning-Based Optical Restoration. In ACM APNet 2025.
 
 [6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024.
 
