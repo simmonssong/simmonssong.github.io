@@ -14,6 +14,7 @@ I got my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.h
 **Research Interests**: My research focuses on the foundation of solving mathematical optimization problems with learning-based methods and their application to Networking. I try to improve the theoretical boundaries of existing algorithms by learning. I am also interested in enhancing the efficiency and reliability of learning-based models. 
 
 ### News
+[10/2025] Nominated as top reviewer of NeurIPS 2025 (~10%)! <br>
 [09/2025] Our work, the first theoretical L2O convergence demonstration, "Learning Provably Improves the Convergence of Gradient Descent," has been Accepted by NeurIPS 2025! <br>
 [09/2025] Got 2025 ACM SIGCSE China Doctoral Dissertation Award! <br>
 [09/2025] Started my new journey in XMU! <br>
