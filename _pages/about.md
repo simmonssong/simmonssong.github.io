@@ -11,7 +11,7 @@ redirect_from:
 I'm a Assistant Professor at [Informatic School, Xiamen University](https://informatics.xmu.edu.cn/index.htm).
 I got my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I also work with [Dr. Hui-Ling Zhen](https://scholar.google.com/citations?user=gq29DtwAAAAJ&hl=en) of Noah's Ark Lab. I hold a B.S. from Harbin Institute of Technology and a M.S. from Tsinghua University.
 
-**Research Interests**: My research focuses on the foundation of solving mathematical optimization problems with learning-based methods and their application to Networking. I try to improve the theoretical boundaries of existing algorithms by learning. I am also interested in enhancing the efficiency and reliability of learning-based models. 
+**Research Interests**: My research lies at the intersection of machine learning and mathematical optimization, focusing on developing learning-based methods for  optimization problems. I applies these techniques to accelerate applications such as stochastic optimization in Large Language Models and complex optimization problems (such as mixed integer linear programming and non-convex) in computer networking.
 
 ### News
 [10/2025] Nominated as top reviewer of NeurIPS 2025 (~10%)! <br>
