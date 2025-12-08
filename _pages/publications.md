@@ -28,13 +28,16 @@ My past research topics:
 
 
 ### Conference Proceedings
-[8]. **Qingyu Song**, Wei Lin, and Hong Xu. Learning Provably Improves the Convergence of Gradient Descent. In NeurIPS 2025. [[link](/files/MathL2OProof_QYS.pdf)]
 
-[7]. Siyong Huang, **Qingyu Song**, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. Toward Scalable Learning-Based Optical Restoration. In ACM APNet 2025.
+[9]. Qiang Su, Yining Jiang, Siyong Huang, **Qingyu Song***, Qiao Xiang*, Xue Liu, and Jiwu Shu. Toward Scalable and High-Performance GNN-Based Traffic Engineering with Free Path Selection. In IEEE ICPADS 2025. (CCF C)
 
-[6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024.
+[8]. **Qingyu Song**, Wei Lin, and Hong Xu. Learning Provably Improves the Convergence of Gradient Descent. In NeurIPS 2025. [[Paper](/files/MathL2OProof_QYS.pdf)] [[Code](https://github.com/NetX-lab/MathL2OProof-Official)] (CCF A)
 
-[5]. **Qingyu Song**, Juncheng Wang, Jingzong Li, Guocheng Liu, Hong Xu. A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization. In IEEE INFOCOM, 2024.
+[7]. Siyong Huang, **Qingyu Song***, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. Toward Scalable Learning-Based Optical Restoration. In ACM APNet 2025. (CCF C)
+
+[6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024. (CCF A)
+
+[5]. **Qingyu Song**, Juncheng Wang, Jingzong Li, Guocheng Liu, Hong Xu. A Learning-only Method for Multi-Cell Multi-User MIMO Sum Rate Maximization. In IEEE INFOCOM, 2024. (CCF A)
 
 [4]. Yu Zhang, Wei Lin, Sisi Chen, **Qingyu Song**, Jiaxun Lu, Yunfeng Shao, Bei Yu, Hong Xu. Fed2Com: Towards Efficient Compression in Federated Learning. In IEEE ICNC, 2024.
 
@@ -46,9 +49,9 @@ My past research topics:
 
 
 ### Workshops
-[2]. **Qingyu Song**, Guocheng Liu, Hong Xu. Learning to Optimize Non-Convex Sum-Rate Maximization Problems. In ICML 2023, 1st Workshop on Synergy of Scientific and Machine Learning Modeling.
+[2]. **Qingyu Song**, Guocheng Liu, Hong Xu. Learning to Optimize Non-Convex Sum-Rate Maximization Problems. In ICML 2023, 1st Workshop on Synergy of Scientific and Machine Learning Modeling. (CCF A)
 
-[1]. **Qingyu Song**, Guocheng Liu, Hong Xu. Towards a Learning-Only Approach for Non-Convex Sum Rate Maximization. In ACM SigMetrics 2023, 1st Workshop on Learning-augmented Algorithms: Theory and Applications.
+[1]. **Qingyu Song**, Guocheng Liu, Hong Xu. Towards a Learning-Only Approach for Non-Convex Sum Rate Maximization. In ACM SigMetrics 2023, 1st Workshop on Learning-augmented Algorithms: Theory and Applications. (CCF B)
 
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=C33tGsQAAAAJ&view_op=list_works&sortby=pubdate"> my Google Scholar profile</a>.</u>
