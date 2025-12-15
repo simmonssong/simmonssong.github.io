@@ -33,7 +33,7 @@ My past research topics:
 
 [8]. **Qingyu Song**, Wei Lin, and Hong Xu. Learning Provably Improves the Convergence of Gradient Descent. In NeurIPS 2025. [[Paper](/files/MathL2OProof_QYS.pdf)] [[Code](https://github.com/NetX-lab/MathL2OProof-Official)] (CCF A)
 
-[7]. Siyong Huang, **Qingyu Song***, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang, and Jiwu Shu. Toward Scalable Learning-Based Optical Restoration. In ACM APNet 2025. (CCF C)
+[7]. Siyong Huang, **Qingyu Song***, Kexin Yu, Zhaoning Wang, Zhizhen Zhong, Qiao Xiang*, and Jiwu Shu. Toward Scalable Learning-Based Optical Restoration. In ACM APNet 2025. (CCF C)
 
 [6]. **Qingyu Song**, Wei Lin, Juncheng Wang, Hong Xu. Towards Robust Learning to Optimize with Theoretical Guarantees. In IEEE/CVF CVPR, 2024. [[Paper](/files/GoMathL2O_QYS.pdf)] [[Code](https://github.com/NetX-lab/GoMathL2O-Official)] (CCF A)
 
