@@ -1,15 +1,14 @@
+
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Workshop"
+layout: archive
+title: "2026春《科研素养训练I》厦门大学"
 permalink: /teaching/2026-Scientific-research-literacy-training
-venue: "Xiamen University, School of Informatics"
-date: 2026-03-03
-location: "Xiamen, China"
+author_profile: true
 ---
 
 
-# 2026春《科研素养训练I》课程资料与作业
+
+### 2026春《科研素养训练I》课程资料与作业
 
 | 日期 | 课程内容与材料 | 作业信息 |
 | :--- | :--- | :--- | 
