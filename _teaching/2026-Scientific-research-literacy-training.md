@@ -1,7 +1,7 @@
 
 ---
 layout: archive
-title: "2026春《科研素养训练I》厦门大学"
+title: "2026 Training of Scientific Research Literacy"
 permalink: /teaching/2026-Scientific-research-literacy-training
 author_profile: true
 ---
