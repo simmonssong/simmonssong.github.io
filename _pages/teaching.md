@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### XMU
-* [科研素养训练I](2026-Scientific-research-literacy-training), 2026 春季
+* [科研素养训练I](_teaching/2026-Scientific-research-literacy-training), 2026 春季
 * [Introduction to Computational Thinking](https://sngroup.org.cn/courses/ct-xmuf25/index.shtml), Fall 2025
 
 ### Before XMU
