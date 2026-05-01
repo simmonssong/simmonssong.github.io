@@ -22,6 +22,8 @@ My research lies at the intersection of machine learning and system, focusing on
 
 
 ### News
+[05/2026] AGZO has been accepted by ICML 2026! <br>
+[04/2026] REACT has been accepted by IWQoS 2026! <br>
 [10/2025] Nominated as top reviewer of NeurIPS 2025 (~10%)! <br>
 [09/2025] Our work, the first theoretical L2O convergence demonstration, "Learning Provably Improves the Convergence of Gradient Descent," has been Accepted by NeurIPS 2025! <br>
 [09/2025] Got 2025 ACM SIGCSE China Doctoral Dissertation Award! <br>
