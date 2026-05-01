@@ -7,10 +7,10 @@ author_profile: true
 
 My current research interests:
 * Agent Framework. [P5]
-* Zeroth-Order Optimization. [P3, P7]
+* Zeroth-Order Optimization. [P3, C11]
 * Learning to Optimize. [P1, C9, C8, C7, C6, C5, W2, W1]
 * AI for Computer Network Management & Scheduling. [P8, C9, C8, C7, C5, W2, W1]
-* Optimization for Deep Learning. [C9, C8, P3, P7]
+* Optimization for Deep Learning. [C11, C9, C8, P3, C11]
 * Inference Acceleration for LLM. [P2]
 
 
@@ -21,10 +21,7 @@ My past research topics:
 
     
 ### Preprints
-
-[P8]. Siyong Huang, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu, REACT: Toward Real-Time, End-to-End, Adaptive Cross-layer Restoration for IP-Over-Optical Networks.
-
-[P7]. Wei Lin, Yining Jiang, **Qingyu Song**, Qiao Xiang, Hong Xu, AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning. arXiv preprint arXiv:2601.17261 (2026)
+[P7]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
 
 [P6]. Mingyuan Song, Huan Shen, Jinghui Jiang, Qiang Su\*, **Qingyu Song**, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu. Argo: An efficient verification framework for distributed in-network computing. arXiv preprint arXiv:2511.08189
 
@@ -40,6 +37,11 @@ My past research topics:
 
 
 ### Conference Proceedings (* Corresponding Author)
+[C12]. Wei Lin, Yining Jiang, **Qingyu Song**\*, Qiao Xiang, Hong Xu, AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning. In ICML 2026. (CCF A)
+
+[C11]. Siyong Huang, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu, REACT: Toward Real-Time, End-to-End, Adaptive Cross-layer Restoration for IP-Over-Optical Networks. In IEEE IWQoS 2026 (CCF B)
+
+[C10]. Mingjun Fang, Shuhao Zheng, Zonglun Li, Letian Zhu, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Xue Liu, Jiwu Shu, TAegisPath: Privacy-Preserving Interdomain Data-Plane Verification with Versioned Verifiable Evidence.  In ACM APNet 2026. (CCF C)
 
 [C9]. Qiang Su, Yining Jiang, Siyong Huang, **Qingyu Song**\*, Qiao Xiang\*, Xue Liu, and Jiwu Shu. Toward Scalable and High-Performance GNN-Based Traffic Engineering with Free Path Selection. In IEEE ICPADS 2025. (CCF C)
 
