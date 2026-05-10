@@ -18,11 +18,12 @@ My research lies at the intersection of machine learning and system, focusing on
 **Current Research Projects**
 1. Learning to Optimize.
 2. Zeroth-order optimization for SFT and Agentic RL.
-3. LLM Agent Framework.
+3. Agent Inference Optimization.
 
 
 ### News
 [05/2026] AGZO has been accepted by ICML 2026! <br>
+[04/2026] 祝贺张远洋、傅梦琦、徐文韵三位同学获得《2026数字中国创新大赛人工智能赛道》三等奖！ <br>
 [04/2026] REACT has been accepted by IWQoS 2026! <br>
 [10/2025] Nominated as top reviewer of NeurIPS 2025 (~10%)! <br>
 [09/2025] Our work, the first theoretical L2O convergence demonstration, "Learning Provably Improves the Convergence of Gradient Descent," has been Accepted by NeurIPS 2025! <br>
@@ -37,4 +38,4 @@ My research lies at the intersection of machine learning and system, focusing on
 ### Joining us
 [Visiting Students/Scholars] Welcome collaborations and visiting scholars, email me with your CV and the related topic you are interested in. <br>
 [Undergraduate Students] Welcome undergraduates with strong interests. If you are a XMU undergraduate student, feel free to email me.
-
+[Postgraduates Students] Looking for self-motivated students majoring in CS/Math/SE or with a related background.
