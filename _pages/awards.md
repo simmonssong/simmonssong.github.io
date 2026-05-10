@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-1. 2026《数字中国创新大赛人工智能赛道》三等奖！（指导老师）
+1. 2026《数字中国创新大赛-人工智能赛道》三等奖（指导老师）
   
 2. IEEE ICPADS 2025 Best Paper Awards!
 
