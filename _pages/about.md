@@ -37,5 +37,5 @@ My research lies at the intersection of machine learning and system, focusing on
 
 ### Joining us
 [Visiting Students/Scholars] Welcome collaborations and visiting scholars, email me with your CV and the related topic you are interested in. <br>
-[Undergraduate Students] Welcome undergraduates with strong interests. If you are a XMU undergraduate student, feel free to email me.
+[Undergraduate Students] Welcome undergraduates with strong interests. If you are a XMU undergraduate student, feel free to email me. <br>
 [Postgraduates Students] Looking for self-motivated students majoring in CS/Math/SE or with a related background.
