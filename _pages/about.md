@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor at [Informatic School, Xiamen University](https://informatics.xmu.edu.cn/index.htm).
+I'm an Associate Professor (Ph.D. Advisor) at [Informatic School, Xiamen University](https://informatics.xmu.edu.cn/index.htm).
 I got my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Hong Xu](https://henryhxu.github.io/). I hold a B.S. from Harbin Institute of Technology and a M.S. from Tsinghua University.
 
 **Research Interests**
