@@ -21,9 +21,7 @@ My past research topics:
 
     
 ### Preprints
-[P7]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
-
-[P6]. Mingyuan Song, Huan Shen, Jinghui Jiang, Qiang Su\*, **Qingyu Song**, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu. Argo: An efficient verification framework for distributed in-network computing. arXiv preprint arXiv:2511.08189
+[P6]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
 
 [P5]. Yining Jiang, Yunxin Xu, Wenyun Xu, Yufan Zhu, Tangtang He, Haiying Huang, Letian Zhu, **Qingyu Song**\*, Qiang Su, Lizhao You, Lu Tang, Wanjin Feng, Yuchao Zhang, Linghe Kong, Qiao Xiang\*, Jiwu Shu. Leveraging Large Language Models for Automated Reproduction of Networking Research Results. arXiv preprint arXiv:2509.21074 (2026)
 
@@ -37,13 +35,15 @@ My past research topics:
 
 
 ### Conference Proceedings (* Corresponding Author)
-[C12]. Wei Lin, Yining Jiang, **Qingyu Song**\*, Qiao Xiang, Hong Xu, AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning. In ICML 2026. (CCF A)
+[C13]. Mingyuan Song, Huan Shen, Jinghui Jiang, Qiang Su\*, **Qingyu Song**, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu. Argo: An efficient verification framework for distributed in-network computing. In ACM SIGCOMM 2026 (CCF A, Accepted)
 
-[C11]. Siyong Huang, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu, REACT: Toward Real-Time, End-to-End, Adaptive Cross-layer Restoration for IP-Over-Optical Networks. In IEEE IWQoS 2026 (CCF B)
+[C12]. Wei Lin, Yining Jiang, **Qingyu Song**\*, Qiao Xiang, Hong Xu, AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning. In ICML 2026. (CCF A, Accepted)
 
-[C10]. Mingjun Fang, Shuhao Zheng, Zonglun Li, Letian Zhu, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Xue Liu, Jiwu Shu, TAegisPath: Privacy-Preserving Interdomain Data-Plane Verification with Versioned Verifiable Evidence.  In ACM APNet 2026. (CCF C)
+[C11]. Siyong Huang, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu, REACT: Toward Real-Time, End-to-End, Adaptive Cross-layer Restoration for IP-Over-Optical Networks. In IEEE IWQoS 2026 (CCF B, Accepted)
 
-[C9]. Qiang Su, Yining Jiang, Siyong Huang, **Qingyu Song**\*, Qiao Xiang\*, Xue Liu, and Jiwu Shu. Toward Scalable and High-Performance GNN-Based Traffic Engineering with Free Path Selection. In IEEE ICPADS 2025. (CCF C)
+[C10]. Mingjun Fang, Shuhao Zheng, Zonglun Li, Letian Zhu, **Qingyu Song**\*, Lizhao You, Qiang Su, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Xue Liu, Jiwu Shu, TAegisPath: Privacy-Preserving Interdomain Data-Plane Verification with Versioned Verifiable Evidence.  In ACM APNet 2026. (CCF C, Accepted)
+
+[C9]. Qiang Su, Yining Jiang, Siyong Huang, **Qingyu Song**\*, Qiao Xiang\*, Xue Liu, and Jiwu Shu. Toward Scalable and High-Performance GNN-Based Traffic Engineering with Free Path Selection. In IEEE ICPADS 2025. (CCF C, **Best Paper Award**)
 
 [C8]. **Qingyu Song**, Wei Lin, and Hong Xu. Learning Provably Improves the Convergence of Gradient Descent. In NeurIPS 2025. [[Paper](/files/MathL2OProof_QYS.pdf)] [[Code](https://github.com/NetX-lab/MathL2OProof-Official)] (CCF A)
 
