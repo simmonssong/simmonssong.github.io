@@ -21,9 +21,7 @@ My past research topics:
 
     
 ### Preprints
-[P6]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
-
-[P5]. Yining Jiang, Yunxin Xu, Wenyun Xu, Yufan Zhu, Tangtang He, Haiying Huang, Letian Zhu, **Qingyu Song**\*, Qiang Su, Lizhao You, Lu Tang, Wanjin Feng, Yuchao Zhang, Linghe Kong, Qiao Xiang\*, Jiwu Shu. Leveraging Large Language Models for Automated Reproduction of Networking Research Results. arXiv preprint arXiv:2509.21074 (2026)
+[P5]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
 
 [P4]. Yao Wang, Kexin Yu, Wenyun Xu, Kaiqiang Hu, Ziyi Wang, Lizhao You\*, Qiang Su, Dong Guo, Haizhou Du, Wanjian Feng, **Qingyu Song**, Linghe Kong, Qiao Xiang\*, Jiwu Shu, Janus: Leveraging Incremental Computation for Efficient DNS Verification. arXiv preprint arXiv:2511.02559 (2025)
 
@@ -35,6 +33,8 @@ My past research topics:
 
 
 ### Conference Proceedings (* Corresponding Author)
+[C14]. Yining Jiang, Yunxin Xu, Wenyun Xu, Haiying Huang, Yufan Zhu, Tangtang He, Letian Zhu, **Qingyu Song**\*, Qiang Su, Lizhao You, Lu Tang, Wanjin Feng, Yuchao Zhang, Linghe Kong, Qiao Xiang\*, Jiwu Shu. Leveraging Large Language Models for Automated Reproduction of Networking Research Results. In ACM SIGCOMM 2026. (CCF A, Accepted)
+
 [C13]. Mingyuan Song, Huan Shen, Jinghui Jiang, Qiang Su\*, **Qingyu Song**, Lu Tang, Wanjian Feng, Fei Yuan, Qiao Xiang\*, Jiwu Shu. Argo: An efficient verification framework for distributed in-network computing. In ACM SIGCOMM 2026 (CCF A, Accepted)
 
 [C12]. Wei Lin, Yining Jiang, **Qingyu Song**\*, Qiao Xiang, Hong Xu, AGZO: Activation-Guided Zeroth-Order Optimization for LLM Fine-Tuning. In ICML 2026. (CCF A, Accepted)
