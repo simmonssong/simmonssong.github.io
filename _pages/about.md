@@ -22,7 +22,7 @@ My research lies at the intersection of machine learning and system, focusing on
 
 
 ### News
-[05/2026] RepLLM has been accepted by ACM SIGCOMM 2026! <br>
+[06/2026] RepLLM has been accepted by ACM SIGCOMM 2026! <br>
 [05/2026] AGZO has been accepted by ICML 2026! <br>
 [04/2026] 祝贺张远洋、傅梦琦、徐文韵三位同学获得《2026数字中国创新大赛人工智能赛道》三等奖！ <br>
 [04/2026] REACT has been accepted by IWQoS 2026! <br>
