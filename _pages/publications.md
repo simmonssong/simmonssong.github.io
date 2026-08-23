@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-My current research interests:
+Research Overview:
+<p align="center">
+  <img src="/files/英文研究架构图.png" style="width: 95%; max-width: 1200px;">
+</p>
+
+
+My current research outcomes:
 * Agent Framework. [P5]
 * Zeroth-Order Optimization. [P3, C11]
 * Learning to Optimize. [P1, C9, C8, C7, C6, C5, W2, W1]
@@ -14,7 +20,7 @@ My current research interests:
 * Inference Acceleration for LLM. [P2]
 
 
-My past research topics:
+My past research outcomes:
 * Communication Efficient Federated Learning. [C4]
 * Graph Neural Networks. [C5, W2, W1, C3, C1]
 * Time Series Prediction. [C3, C1]
