@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 ### XMU
-* [科研素养训练I](/teaching/2026-Scientific-research-literacy-training), 2026 春季
+* Python程序设计, 2026 秋季
+* [科研素养训练II](/teaching/2026-Fall-Scientific-research-literacy-training-II/), 2026 秋季
+* [科研素养训练I](/teaching/2026-Spring-Scientific-research-literacy-training-I/), 2026 春季
+* 人工智能程序设计Python, 2026 春季
 * [Introduction to Computational Thinking](https://sngroup.org.cn/courses/ct-xmuf25/index.shtml), Fall 2025
 
 ### Before XMU
