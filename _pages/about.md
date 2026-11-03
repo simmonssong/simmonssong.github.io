@@ -16,9 +16,9 @@ I got my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.h
 My research lies at the intersection of machine learning and system, focusing on developing efficient and reliable solutions for LLMs and systems. I apply these techniques to scenarios such as stochastic optimization in LLM Agents and complex optimization problems (such as mixed integer linear programming and non-convex) in computer networking and systems.
 
 **Current Research Projects**
-1. Learning to Optimize.
-2. Zeroth-order optimization for SFT and Agentic RL.
-3. Agent Inference Optimization.
+1. Agent-based Auto-Optimization.
+2. Zeroth-order optimization and on-policy distillation.
+3. Inference Optimization for agentic workload.
 
 
 ### News
