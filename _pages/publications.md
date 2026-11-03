@@ -29,7 +29,7 @@ My past research outcomes:
 ### Preprints(# Equal contribution, * Corresponding author)
 [P8]. Wenyun Xu, Letian Zhu, **Qingyu Song**\*, Qiao Xiang, Xue Liu. Beyond Per-Call Checks: A Stateful Authorization Framework for Tool-Using AI Agents. (in-submission)
 
-[P7]. Rui Liu, Xuesong Wang, Mochun Long **Qingyu Song**\*, Qiao Xiang. EVE: Reliable and Lifelong Experience Replay Framework for Continually Evolving LLM Agents. (in-submission)
+[P7]. Rui Liu, Xuesong Wang, Mochun Long, **Qingyu Song**\*, Qiao Xiang. EVE: Reliable and Lifelong Experience Replay Framework for Continually Evolving LLM Agents. (in-submission)
 
 [P6]. Liangyijia Hu, **Qingyu Song**\*, Xufeng Yao, Qiao Xiang. RePairRank: Online Pairwise Ranking for SPICE-Efficient RL-based Analog Circuit Sizing. (in-submission)
 
