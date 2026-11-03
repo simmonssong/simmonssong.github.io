@@ -11,13 +11,13 @@ Research Overview:
 </p>
 
 
-My current research outcomes:
-* Agent Framework. [P5]
+Recent research outcomes:
+* Agent Framework. [P8, P7, P5, C14]
 * Zeroth-Order Optimization. [P3, C11]
+* Inference Optimization for LLM. [P2]
+* AI for Computer Network Management & Scheduling. [C9, C8, C7, C5, W2, W1]
+* Optimization for Deep Learning. [C12, C11, C9, C8, P3, C11]
 * Learning to Optimize. [P1, C9, C8, C7, C6, C5, W2, W1]
-* AI for Computer Network Management & Scheduling. [P8, C9, C8, C7, C5, W2, W1]
-* Optimization for Deep Learning. [C11, C9, C8, P3, C11]
-* Inference Acceleration for LLM. [P2]
 
 
 My past research outcomes:
@@ -26,8 +26,14 @@ My past research outcomes:
 * Time Series Prediction. [C3, C1]
 
     
-### Preprints
-[P5]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, Qingyu Song\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research.
+### Preprints(# Equal contribution, * Corresponding author)
+[P8]. Wenyun Xu, Letian Zhu, **Qingyu Song**\*, Qiao Xiang, Xue Liu. Beyond Per-Call Checks: A Stateful Authorization Framework for Tool-Using AI Agents. (in-submission)
+
+[P7]. Rui Liu, Xuesong Wang, Mochun Long **Qingyu Song**\*, Qiao Xiang. EVE: Reliable and Lifelong Experience Replay Framework for Continually Evolving LLM Agents. (in-submission)
+
+[P6]. Liangyijia Hu, **Qingyu Song**\*, Xufeng Yao, Qiao Xiang. RePairRank: Online Pairwise Ranking for SPICE-Efficient RL-based Analog Circuit Sizing. (in-submission)
+
+[P5]. Mengrui Zhang\#, Bang Huang\#, Yunxin Xu, Haiying Huang, Luxi Zhao, Mochun Long, **Qingyu Song**\*, Qiao Xiang\*, Xue Liu, Jiwu Shu, Toward Innovation Discovery in Networking Research. (in-submission)
 
 [P4]. Yao Wang, Kexin Yu, Wenyun Xu, Kaiqiang Hu, Ziyi Wang, Lizhao You\*, Qiang Su, Dong Guo, Haizhou Du, Wanjian Feng, **Qingyu Song**, Linghe Kong, Qiao Xiang\*, Jiwu Shu, Janus: Leveraging Incremental Computation for Efficient DNS Verification. arXiv preprint arXiv:2511.02559 (2025)
 
